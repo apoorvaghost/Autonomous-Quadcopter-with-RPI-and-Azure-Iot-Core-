@@ -1,0 +1,14 @@
+import time 
+import sys
+from azure.servicebus import ServiceBusSerrvice
+
+key_name = "MySender"
+key_value= "MyKeyGoesHere"
+
+abs = ServiceBusService("robotdeskeventhub-ns", shared_access_key_name=key+name, shared_access_key_value=key_value)
+
+while(True):
+    Print('sending...')
+    sbs.send_event('nameofevent', '{"DeviceId": "Ghostpi", "Yaw","pitch","roll":x,y,z}')
+    print('sent!')
+    time.sleep(.02)
