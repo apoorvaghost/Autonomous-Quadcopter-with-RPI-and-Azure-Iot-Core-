@@ -1,6 +1,5 @@
 
 from motor import motor
-
 motor1 = motor('m1', 17, simulation=False)
 motor2 = motor('m1', 18, simulation=False)
 motor3 = motor('m1', 25, simulation=False)
