@@ -18,7 +18,7 @@ Make sure you dont forget to add the Event Hub-compatible name to the path value
 For Unexpected Threat to your while it's in air Use Another Azure Funtion to keep your phone App Notified
 Source :: https://microsoft.github.io/techcasestudies/azure%20app%20service/azure%20functions/2017/03/21/KingwaytekAzureFunctions.html
 
-Future Itegration with ArcGIS for application of Dump Segregation
+(InProgress)Itegration with ArcGIS for application of Dump Segregation
 ArcGIS :: API support as FeatureLayerView
 GraphicsLayerView
 ImageryLayerView
