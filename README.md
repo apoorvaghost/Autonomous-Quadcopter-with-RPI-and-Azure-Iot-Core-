@@ -7,7 +7,7 @@ Must Have Installed ServoBlasters :: https://github.com/richardghirst/PiBits/tre
 *****For Azure Connections***
 services used are 
 Azure IoT Hub,
-      Steam Analytics
+      Event Hub
     & Azure Funtions app
 #must be in same Resource Manager
 
